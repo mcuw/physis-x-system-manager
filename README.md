@@ -1,5 +1,7 @@
 # Physis-X System Manager
 
+<img src="assets/PHYSIS-X_Dezentrales_Thread-Mesh-System.png" alt="PHYSIS-X illustration" />
+
 ## Zweck und Architekturrolle
 
 Der System Manager ist die zentrale Verwaltungs- und Orchestrierungskomponente des Physis-X-Systems. Er verwaltet logische Geräteidentitäten, Capabilities, Status und Telemetrie und stellt übergreifende Use Cases bereit.
